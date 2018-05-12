@@ -1,0 +1,48 @@
+_repo: The-Works-of-William-Shakespeare--Cambridge-Edition---9-vols.-Volume-2._45128
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45128-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+  editors:
+  - agent_name: Wright, William Aldis
+    alias: Wright, W. Aldis (William Aldis)
+    birthdate: 1831
+    deathdate: 1914
+    gutenberg_agent_id: '9353'
+    url: http://www.gutenberg.org/2009/agents/9353
+    wikipedia: http://en.wikipedia.org/wiki/William_Aldis_Wright
+  - agent_name: Clark, William George
+    aliases:
+    - Clarke, William George
+    - Clark, W. G. (William George)
+    birthdate: 1821
+    deathdate: 1878
+    gutenberg_agent_id: '25742'
+    url: http://www.gutenberg.org/2009/agents/25742
+description: ''
+gutenberg_issued: '2014-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcc 'PR'
+tableOfContents: Much ado about nothing -- Love's labour's lost -- A midsummer-night's
+  dream -- The merchant of Venice -- As you like it.
+title: The Works of William Shakespeare [Cambridge Edition] [Vol. 2 of 9]
+url: http://www.gutenberg.org/ebooks/45128
